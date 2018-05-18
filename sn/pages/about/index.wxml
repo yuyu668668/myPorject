@@ -1,0 +1,21 @@
+<view class='container'>
+<view  class='main'>
+<view>
+<button bindtap="getLocaltionMsg"  class='myMap'><image src='../../image/map.png'></image>地图导航(点击开始导航)</button>
+</view>
+<view><button bindtap='getTel' class='myTel'><image src='../../image/tel.png'></image>点击拨打电话</button></view>
+</view>
+<view class='item'>
+   <view class="flex-wrp" style="height: 300px;padding-top: 15px;margin-top:15px;margin-left:20px;flex-direction:column;">
+    <view class="flex-item bc_red"><icon type="success" size="20"/>电话号：13727279976</view>
+    <view class="flex-item bc_green"><icon type="success" size="20"/>微信号：zhangshilin65029545</view>
+    <view class="flex-item bc_green">
+      <image style="width: 180px; height: 180px; background-color: #eeeeee;" src="http://p8hntlb71.bkt.clouddn.com/weixin.png"></image>
+    </view>
+    <view class="flex-item bc_blue"><icon type="success" size="20"/>养蛇论坛（小程序）</view>
+    <view class="flex-item bc_green">
+        <image style="width: 180px; height: 180px; background-color: #eeeeee;" src="http://p8hntlb71.bkt.clouddn.com/she5.png"></image>
+      </view>
+  </view>
+</view>
+</view>

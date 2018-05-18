@@ -1,0 +1,14 @@
+<view class="main">
+  <view class="banner">
+    <image src="http://p8hntlb71.bkt.clouddn.com/yingyezhizhao.png"></image>
+  </view>
+  <view class="container">
+  <view class="mcname"></view>
+  <view class="mcinfo"></view>
+  <view class="mcdesc"><view class="main-desc">
+  <view class="paragraph" style='margin-top:20px;text-indent:2em;'>广东肇庆世林蛇场是肇庆首家持有合法的蛇类驯养繁殖许可证的蛇场，蛇场位于肇庆市四会大沙镇本场主要养养殖水律蛇，眼镜蛇，共养殖活蛇1万多条，常年提供商品蛇，水律蛇蛇蛋，眼镜蛇蛇蛋，蛇蛋及蛇苗，蛇饲料，免费提供引种证明，蛇类养殖技术，欢迎到本蛇场参观学习，共创蛇业！</view>
+  <view class="paragraph" style='margin-top:20px;text-indent:2em;margin-bottom:20px;'>广东肇庆世林蛇场是四会市首家持有合法蛇类驯养繁殖许可证，蛇场成立时间于2012年9月，注册号：441284600240218 蛇场负责人，法律代表人：张世林 。本场依靠科学的养殖技术发展人工养蛇，取得了很好的经济效益，现已发展成为一个总场，一个分场，总占地面积20余亩。总蛇场位于肇庆四会市大沙镇仁马村委林陈村，分场位于肇庆市鼎湖区，距离鼎湖山不到十公里。蛇种以眼镜蛇和滑鼠蛇（水律蛇）为主，培养种蛇及产蛇蛋蛇苗，蛇场发展从小到大，现两个蛇场养活蛇一万多条。常年供应蛇蛋、蛇苗、种蛇、蛇饲料（冰冻脱毛小鸡、青蛙），并提供养蛇技术，蛇病解剖，药物试验等。总场设有半露天养殖，室内池养，野生种蛇箱养式，主要采用空气能地暖全温室加温。本场目前规模在不断地扩大，在这个物产丰富，风景优美的鼎湖，给蛇类生产及繁殖创造了天然的优良环境，这里的蛇类生长繁殖快速，品种优质，欢迎各位养蛇之士前来实地考察合作洽谈,价格由市场变化和路程而定。</view>
+  </view>
+  </view>
+  </view>
+</view>

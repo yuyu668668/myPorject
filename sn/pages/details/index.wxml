@@ -1,0 +1,64 @@
+ <view class="title-box"><view class="uline"></view><text class="utitle">产品展示</text><view class="uline"></view></view>
+	
+    <view class="list-box">
+        <view class="newest-list">
+         
+                <image src="http://p8hntlb71.bkt.clouddn.com/dan1.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇蛋</text></view>
+       
+        </view>
+        <view class="newest-list">
+          
+                <image src="http://p8hntlb71.bkt.clouddn.com/dan2.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇蛋</text></view>
+          
+        </view>
+        <view class="newest-list">
+
+                <image src="http://p8hntlb71.bkt.clouddn.com/dan3.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇蛋</text></view>
+           
+        </view>
+		 <view class="newest-list">
+        
+                <image src="http://p8hntlb71.bkt.clouddn.com/dan4.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇蛋</text></view>
+            
+        </view>
+        		 <view class="newest-list">
+        
+                <image src="http://p8hntlb71.bkt.clouddn.com/dan5.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇蛋</text></view>
+            
+        </view>
+        		 <view class="newest-list">
+        
+                <image src="http://p8hntlb71.bkt.clouddn.com/dan6.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇蛋</text></view>
+            
+        </view>
+        		 <view class="newest-list">
+        
+                <image src="http://p8hntlb71.bkt.clouddn.com/dan7.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇蛋</text></view>
+            
+        </view>
+        		 <view class="newest-list">
+        
+                <image src="http://p8hntlb71.bkt.clouddn.com/dan8.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇蛋</text></view>
+            
+        </view>
+                		 <view class="newest-list">
+        
+                <image src="http://p8hntlb71.bkt.clouddn.com/dan88.jpg" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇蛋</text></view>
+            
+        </view>
+                		 <view class="newest-list">
+        
+                <image src="http://p8hntlb71.bkt.clouddn.com/dan89.jpg" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇蛋</text></view>
+            
+        </view>
+    </view>

@@ -1,0 +1,52 @@
+ <view class="title-box"><view class="uline"></view><text class="utitle">产品展示</text><view class="uline"></view></view>
+	
+    <view class="list-box">
+        <view class="newest-list">
+         
+                <image src="http://p8hntlb71.bkt.clouddn.com/miao5.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇苗</text></view>
+       
+        </view>
+        <view class="newest-list">
+          
+                <image src="http://p8hntlb71.bkt.clouddn.com/miao10.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇苗</text></view>
+          
+        </view>
+        <view class="newest-list">
+
+                <image src="http://p8hntlb71.bkt.clouddn.com/miao6.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇苗</text></view>
+           
+        </view>
+		 <view class="newest-list">
+        
+                <image src="http://p8hntlb71.bkt.clouddn.com/miao7.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇苗</text></view>
+            
+        </view>
+        		 <view class="newest-list">
+        
+                <image src="http://p8hntlb71.bkt.clouddn.com/miao8.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇苗</text></view>
+            
+        </view>
+        		 <view class="newest-list">
+        
+                <image src="http://p8hntlb71.bkt.clouddn.com/miao9.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇苗</text></view>
+            
+        </view>
+               		 <view class="newest-list">
+        
+                <image src="http://p8hntlb71.bkt.clouddn.com/miao1.jpg" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇苗</text></view>
+            
+        </view>
+               		 <view class="newest-list">
+        
+                <image src="http://p8hntlb71.bkt.clouddn.com/miao2.jpg" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇苗</text></view>
+            
+        </view>
+    </view>

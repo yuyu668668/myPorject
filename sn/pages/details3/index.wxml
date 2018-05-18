@@ -1,0 +1,40 @@
+ <view class="title-box"><view class="uline"></view><text class="utitle">产品展示</text><view class="uline"></view></view>
+	
+    <view class="list-box">
+        <view class="newest-list">
+         
+                <image src="http://p8hntlb71.bkt.clouddn.com/ji1.jpg" mode="aspectFill"></image>
+                <view class="newest-text"><text>小鸡</text></view>
+       
+        </view>
+        <view class="newest-list">
+          
+                <image src="http://p8hntlb71.bkt.clouddn.com/ji2.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>小鸡</text></view>
+          
+        </view>
+        <view class="newest-list">
+
+                <image src="http://p8hntlb71.bkt.clouddn.com/ji3.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>小鸡</text></view>
+           
+        </view>
+		 <view class="newest-list">
+        
+                <image src="http://p8hntlb71.bkt.clouddn.com/ji4.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>青蛙</text></view>
+            
+        </view>
+        		 <view class="newest-list">
+        
+                <image src="http://p8hntlb71.bkt.clouddn.com/ji5.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>青蛙</text></view>
+            
+        </view>
+        		 <view class="newest-list">
+        
+                <image src="http://p8hntlb71.bkt.clouddn.com/ji6.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>青蛙</text></view>
+            
+        </view>
+    </view>

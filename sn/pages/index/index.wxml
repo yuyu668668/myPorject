@@ -1,0 +1,41 @@
+
+<!--轮播图-->
+<view class="mySwiper">
+  <swiper indicator-dots="{{indicatorDots}}"
+    autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" circular="{{circular}}">
+    <block wx:for="{{imgUrls}}" wx:key>
+      <swiper-item>
+        <image src="{{item}}" class="slide-image"/>
+      </swiper-item>
+    </block>
+  </swiper>
+</view>
+ <!--下面布局-->
+ <view class="title-box"><view class="uline"></view><text class="utitle">产品展示</text><view class="uline"></view></view>
+	
+    <view class="list-box">
+        <view class="newest-list">
+            <navigator url="../details/index">
+                <image src="http://p8hntlb71.bkt.clouddn.com/dan1.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇蛋</text></view>
+            </navigator>
+        </view>
+        <view class="newest-list">
+            <navigator url="../details1/index">
+                <image src="http://p8hntlb71.bkt.clouddn.com/miao9.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇苗</text></view>
+            </navigator>
+        </view>
+        <view class="newest-list">
+            <navigator url="../details2/index">
+                <image src="http://p8hntlb71.bkt.clouddn.com/she8.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>商品蛇</text></view>
+            </navigator>
+        </view>
+		 <view class="newest-list">
+            <navigator url="../details3/index">
+                <image src="http://p8hntlb71.bkt.clouddn.com/ji3.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>蛇饲料</text></view>
+            </navigator>
+        </view>
+    </view>

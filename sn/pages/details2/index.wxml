@@ -1,0 +1,52 @@
+ <view class="title-box"><view class="uline"></view><text class="utitle">产品展示</text><view class="uline"></view></view>
+	
+    <view class="list-box">
+        <view class="newest-list">
+         
+                <image src="http://p8hntlb71.bkt.clouddn.com/she1.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>商品蛇</text></view>
+       
+        </view>
+        <view class="newest-list">
+          
+                <image src="http://p8hntlb71.bkt.clouddn.com/she2.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>商品蛇</text></view>
+          
+        </view>
+        <view class="newest-list">
+
+                <image src="http://p8hntlb71.bkt.clouddn.com/she3.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>商品蛇</text></view>
+           
+        </view>
+		 <view class="newest-list">
+        
+                <image src="http://p8hntlb71.bkt.clouddn.com/she4.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>商品蛇</text></view>
+            
+        </view>
+        		 <view class="newest-list">
+        
+                <image src="http://p8hntlb71.bkt.clouddn.com/she6.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>商品蛇</text></view>
+            
+        </view>
+        		 <view class="newest-list">
+        
+                <image src="http://p8hntlb71.bkt.clouddn.com/snake1.jpg" mode="aspectFill"></image>
+                <view class="newest-text"><text>商品蛇</text></view>
+            
+        </view>
+               		 <view class="newest-list">
+        
+                <image src="http://p8hntlb71.bkt.clouddn.com/snake2.jpg" mode="aspectFill"></image>
+                <view class="newest-text"><text>商品蛇</text></view>
+            
+        </view>
+                   		 <view class="newest-list">
+        
+                <image src="http://p8hntlb71.bkt.clouddn.com/she11.png" mode="aspectFill"></image>
+                <view class="newest-text"><text>商品蛇</text></view>
+            
+        </view>
+    </view>
